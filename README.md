@@ -8,6 +8,6 @@
 
 ![N-Queen-visualisation](visualisation.gif)
 
-**<p align='center'>You can find the website live <a href="https://nqueen.netlify.app/">here</a></p>**
+**<p align='center'>You can find the website live <a href="https://nqueen.netlify.app/](https://brilliant-swan-6cc8d0.netlify.app">here</a></p>**
 
-Designed by Shreyanshu !
+<p align='center'>Designed by Shreyanshu !</p>
